@@ -1,3 +1,3 @@
-create database humanbodyDB
+use recordkeeperDB
 go 
 using humanbodyDB
